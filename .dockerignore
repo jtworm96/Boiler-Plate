@@ -5,3 +5,5 @@
 README-secret.md
 .git
 .cache
+.app
+Dockerrun.aws.json
