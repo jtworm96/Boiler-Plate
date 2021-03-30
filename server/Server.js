@@ -18,4 +18,4 @@ app.use(express.static(path.join(__dirname + './Dist')));
 
 app.listen(Port, () => {
   console.log(`listening on port ${Port}`);
-});
+})

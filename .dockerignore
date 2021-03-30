@@ -8,7 +8,6 @@ README-secret.md
 .app
 Dockerrun.aws.json
 .travis.yml
-.env
 .eslintrc.js
 .babelrc
-webpack.confic.js
+webpack.config.js
